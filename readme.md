@@ -1,10 +1,6 @@
 <h1 align="center" style="font-weight:700;">
-  Será que Centraliza
+  Hello Git
 </h1>
-
-<div align="center">
-    <img src="example.svg" width="400" height="400" alt="css-in-readme">
-</div>
 
 <div align="center">
     <a href="https://spotify-github-profile.vercel.app/api/view?uid=12179186620&redirect=true">
