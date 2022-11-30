@@ -1,6 +1,6 @@
-<div align="center">
-  #Será que Centraliza
-</div>
+<h1 align="center" style="font-weight:700;">
+  Será que Centraliza
+</h1>
 
 <div align="center">
   Será que centraliza
