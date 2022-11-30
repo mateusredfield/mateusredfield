@@ -7,5 +7,5 @@
 </div>
 
 <!--![Minhas últimas palavras serão, filé miau](https://myoctocat.com/assets/images/base-octocat.svg)-->
-[naosei](https://spotify-github-profile.vercel.app/api/view?uid=12179186620&redirect=true)
+<center>[naosei](https://spotify-github-profile.vercel.app/api/view?uid=12179186620&redirect=true)</center>
 <!--![Minhas últimas palavras serão, filé miau](https://myoctocat.com/assets/images/base-octocat.svg)-->
