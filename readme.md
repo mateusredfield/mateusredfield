@@ -8,7 +8,7 @@
 
 <div>
     <a href="https://spotify-github-profile.vercel.app/api/view?uid=12179186620&redirect=true">
-      <img src="[example.svg](https://spotify-github-profile.vercel.app/api/view?uid=12179186620&cover_image=true&theme=default&show_offline=true&background_color=121212))">
+      <img src="https://spotify-github-profile.vercel.app/api/view?uid=12179186620&cover_image=true&theme=default&show_offline=true&background_color=121212"/>
     </a>
 </div>
 
