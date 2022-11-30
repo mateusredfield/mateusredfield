@@ -2,7 +2,7 @@
   Será que Centraliza
 </h1>
 
-<div style="text-align:center">
+<div style="text-align:center;">
   Será que centraliza
 </div>
 
