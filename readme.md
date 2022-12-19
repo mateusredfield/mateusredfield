@@ -1,13 +1,49 @@
-<div align="center">
-    <a href="https://spotify-github-profile.vercel.app/api/view?uid=12179186620&redirect=true">
-      <img src="https://spotify-github-profile.vercel.app/api/view?uid=12179186620&cover_image=true&theme=default&show_offline=true&background_color=121212"/>
-    </a>
-</div>
+<div><br/><br/></div>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=mateusredfield&theme=blue-green">
-    <img src="https://streak-stats.demolab.com/?user=mateusredfield&theme=dark">
+    <div align="center">
+        <a href="https://spotify-github-profile.vercel.app/api/view?uid=12179186620&redirect=true">
+          <img src="https://spotify-github-profile.vercel.app/api/view?uid=12179186620&cover_image=true&theme=default&show_offline=true&background_color=121212"/>
+        </a>
+    </div>
 </div>
+
+<div align="right">
+    <img src="https://github-readme-stats.vercel.app/api?username=mateusredfield&theme=blue-green">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=mateusredfield&theme=dark&background=000000">
+</div>
+
+<div><br/><br/></div>
+
+<h3 align="center">
+    Programming Skills
+</h3>
+
+<div align="center">
+  <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp; -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="php" alt="php" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" title="dot-net" alt="dot-net" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+</div>
+
+<h3 align="center">
+    Workflow
+</h3>
+<div align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
+<div><br/><br/></div>
 
 <div align="center">
     <a href="https://mail.google.com/mail/u/0">
@@ -48,6 +84,7 @@
         <img src="https://aleen42.github.io/badges/src/stackoverflow.svg"/>
     </a>
 </div>
+
 
 
 <!-- <div align="center">
@@ -55,6 +92,36 @@
       <img src="https://spotify-github-profile.vercel.app/api/view?uid=12179186620&cover_image=true&theme=default&show_offline=true&background_color=121212"/>
     </a>
 </div>
+-->
+
+<!-- <div><br/><br/></div>
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=mateusredfield&theme=blue-green">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=mateusredfield&theme=dark&background=000000">
+</div>
+
+<div><br/><br/></div>
+
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
+<div><br/><br/></div>
 
 <div align="center">
     <a href="https://mail.google.com/mail/u/0">
@@ -94,13 +161,4 @@
     <a href="https://stackoverflow.com/users/1541979/mateus-dos-santos">
         <img src="https://aleen42.github.io/badges/src/stackoverflow.svg"/>
     </a>
-</div>
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=mateusredfield&theme=blue-green">
 </div> -->
-
-
-
-<!--![Minhas últimas palavras serão, filé miau](https://myoctocat.com/assets/images/base-octocat.svg)-->
-<!--[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12179186620&cover_image=true&theme=default&show_offline=true&background_color=121212)](https://spotify-github-profile.vercel.app/api/view?uid=12179186620&redirect=true)-->
-<!--![Minhas últimas palavras serão, filé miau](https://myoctocat.com/assets/images/base-octocat.svg)-->
