@@ -10,9 +10,8 @@
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=mateusredfield&theme=blue-green">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=mateusredfield&theme=dark&background=000000">
+    <img src="https://streak-stats.demolab.com?user=mateusredfield&theme=android-dark&hide_border=true&locale=pt-br">
 </div>
-
 <div><br/><br/></div>
 
 <h3 align="center">
