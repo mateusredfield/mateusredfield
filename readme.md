@@ -161,4 +161,5 @@
     <a href="https://stackoverflow.com/users/1541979/mateus-dos-santos">
         <img src="https://aleen42.github.io/badges/src/stackoverflow.svg"/>
     </a>
+    <hr>
 </div> -->
