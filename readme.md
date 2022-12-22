@@ -1,5 +1,3 @@
-<meta http-equiv="refresh" content="3">
-
 <div><br/><br/></div>
 
 <div align="center">
