@@ -8,9 +8,9 @@
     </div>
 </div>
 
-<div align="right">
+<div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=mateusredfield&theme=blue-green">
-    <img src="https://streak-stats.demolab.com?user=mateusredfield&theme=android-dark&hide_border=true&locale=pt-br&mode=daily">
+    <img src="https://streak-stats.demolab.com?user=mateusredfield&theme=android-dark&hide_border=true&locale=pt-br&mode=weekly">
 </div>
 <div><br/><br/></div>
 
