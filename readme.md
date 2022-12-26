@@ -8,7 +8,7 @@
     </div>
 </div>
 
-<div align="right">
+<div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=mateusredfield&theme=blue-green">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=mateusredfield&theme=dark&background=000000">
 </div>
