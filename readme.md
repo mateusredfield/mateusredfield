@@ -10,9 +10,8 @@
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=mateusredfield&theme=blue-green">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=mateusredfield&theme=dark&background=000000">
+    <img src="https://streak-stats.demolab.com?user=mateusredfield&theme=android-dark&hide_border=true&locale=pt-br&mode=daily?">
 </div>
-
 <div><br/><br/></div>
 
 <h3 align="center">
@@ -161,4 +160,5 @@
     <a href="https://stackoverflow.com/users/1541979/mateus-dos-santos">
         <img src="https://aleen42.github.io/badges/src/stackoverflow.svg"/>
     </a>
+    <hr>
 </div> -->
