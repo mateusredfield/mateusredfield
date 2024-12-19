@@ -15,7 +15,7 @@
 <div><br/><br/></div>
 
 <h3 align="center">
-    Programminggg Skills
+    Programing Skills
 </h3>
 
 <div align="center">
